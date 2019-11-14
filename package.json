@@ -10,7 +10,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test":  "echo 'Hello World!'" ,
+    "test": "echo 'Hello World!'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -27,5 +27,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M20JK/npm-lab-recoded-baghdad-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M20JK/npm-lab-recoded-baghdad-2019/issues"
+  },
+  "homepage": "https://github.com/M20JK/npm-lab-recoded-baghdad-2019#readme"
 }
